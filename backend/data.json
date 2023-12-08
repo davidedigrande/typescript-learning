@@ -1,0 +1,64 @@
+[
+    {
+        "type": "Work",
+        "title": "Software Engineer",
+        "institution": "RWS Digital S.r.L.",
+        "startDate": "09/2023",
+        "endDate": "ongoing",
+        "description": "Developing complex ERP Solutions with the MVC Odoo Framework and Python language. Domain modeling through Odoo's ORM, creating Models that represent the underlying business logic. Designing user workflows. Developing the user interface and  through Odoo's XML views. Integration with external APIs for integrating external services. Designed data mapping and built ETL flows to migrate data from other ERP systems.",
+        "institutionUrl": "https://www.rwsdigital.com/",
+        "location": "Napoli, Italy",
+        "ongoing": true
+    },
+    {
+        "type": "Work",
+        "title": "Software Engineer",
+        "institution": "Alten Italia S.p.A",
+        "startDate": "09/2022",
+        "endDate": "09/2023",
+        "duration": "1y",
+        "description": "Consultant at BMW Europe, working on a Cloud Data Platform hosted on AWS populated by many heterogeneous sources and constantly changing requirements. - Writing ETL scripts with AWS Glue, Python and PySpark. - Writing Lambda functions to implement related microservices. - Creating CloudFormation stacks. - Used a series of other AWS technologies that support the main functionalities.",
+        "institutionUrl": "https://www.alten.it/",
+        "location": "Milan, Italy",
+        "ongoing": false
+    },
+    {
+        "type": "Work",
+        "title": "Software Engineer",
+        "institution": "Expleo Italia S.p.A",
+        "startDate": "12/2020",
+        "endDate": "09/2022",
+        "duration": "1y 10mo",
+        "description": "Developer at the R&D department. - Full charge of the development of a data-centric web application, encompassing business logic formulation, technical design, and coding implementation. - Developing other smaller web-apps as POCs. - Partecipated in building the institution's Data Warehouse for ML Models training and other data-centric projects: - Design, development and maintainance of ETL Workflows for the Data Warehouse. - Supporting all other projects in the department.",
+        "institutionUrl": "https://www.datafactor.it/chi-siamo/",
+        "location": "Palermo, Italy",
+        "ongoing": false
+    },
+    {
+        "type": "Education",
+        "title": "Data Analysis Bootcamp",
+        "institution": "Tree School Catania",
+        "institutionUrl": "https://tree.it",
+        "startDate": "2020/09",
+        "endDate": "2022/12",
+        "description": "Intensive *240h bootcamp* where I developed proficiency in *Python*, deepened *Descriptive and Inferential Statistics* for complex data interpretation, and harnessed the power of *Pandas* for *data manipulation*. I strengthened my *data mining and cleaning* skills to ensure accurate and reliable datasets, and gained foundational knowledge of machine learning concepts, all underpinned by practical projects which applied this learning in real-world contexts."
+    },
+    {
+        "type": "Education",
+        "title": "Bachelor of Business Administration",
+        "institution": "Università degli Studi di Messina",
+        "institutionUrl": "https://archivio.unime.it/it/dipartimenti/economia/didattica/corsi-di-studio-triennale",
+        "startDate": 2018,
+        "endDate": "2022 [interrupted - 18/24 exams - 28 avg mark]",
+        "description": "Explored an array of business disciplines including operations management, financial analysis, marketing, and strategy formulation. Microeconomics, macroeconomics, econometrics, statistics to model and understand the environment businesses operate in. Developed a solid grounding in strategic decision-making, problem-solving, and quantitative reasoning."
+    },
+    {
+        "type": "Education",
+        "title": "ITC Diploma",
+        "institution": "ITIS Copernico",
+        "institutionUrl": "https://www.istitutocopernico.edu.it/index.php/informatica",
+        "startDate": 2008,
+        "endDate": 2013,
+        "description": "Laid the fundaments of my programming and computers knowledge studying Algorithms and Data Structures, Relational Database Design and SQL, Systems and Networking, OOP, Java, Maths and Statistics."
+    }
+]
